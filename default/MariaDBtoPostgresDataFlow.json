@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1758406641967,
+    "description" : "This flow moves data from MariaDB to PostgreSQL. It connects to the source database, extracts records, and loads them into the data warehouse. The flow is designed for data migration and syncing between the two systems.",
+    "identifier" : "MariaDBtoPostgresDataFlow",
+    "lastModifiedTimestamp" : 1758406641967,
+    "name" : "MariaDB_to_Postgres_DataFlow",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
