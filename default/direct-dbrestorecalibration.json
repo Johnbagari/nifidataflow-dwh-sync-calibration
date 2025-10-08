@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1759912911639,
+    "description" : "restoring data to a datawarehouse fetching it directly from database",
+    "identifier" : "direct-dbrestorecalibration",
+    "lastModifiedTimestamp" : 1759912911639,
+    "name" : "direct _db_restore_calibration",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
